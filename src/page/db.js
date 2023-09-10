@@ -1,5 +1,5 @@
-{
-    "products": [
+
+    export const products = [
         {
             "id": "1",
             "articul": "281057",
@@ -1291,4 +1291,3 @@
             "maxPrice": 2600
         }
     ]
-}
